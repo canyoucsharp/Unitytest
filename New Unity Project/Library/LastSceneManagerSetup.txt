@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Kinect with MS-SDK Playmaker Actions/Examples/Kinect Video - Colour
+    Map.unity
+  isLoaded: 1
+  isActive: 1
